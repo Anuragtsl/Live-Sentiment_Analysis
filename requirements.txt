@@ -9,6 +9,4 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-nltk
-wordcloud
 requests
